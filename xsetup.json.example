@@ -1,0 +1,15 @@
+{
+  "format": "xsetup/v1",
+  "params": {
+    "/app/db/host": {
+      "name": "/app/db/host",
+      "value": "db.local",
+      "type": "String",
+      "version": 1,
+      "description": "",
+      "tags": {},
+      "updatedAt": "2026-09-27T00:00:00.000Z"
+    }
+  },
+  "secrets": {}
+}
